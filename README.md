@@ -1,9 +1,9 @@
-# bt-my-storybook-component
+# bt-my-storybook-components
 
 React components + storybook + npm publish
 
 ```
-yarn add bt-my-storybook-component
+yarn add bt-my-storybook-components
 ```
 
 ### Demo
